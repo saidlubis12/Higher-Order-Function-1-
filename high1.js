@@ -20,3 +20,4 @@ var kodeUnix = [
   90,
 ];
 const kode = kodeUnix.filter((a) => a >= 60);
+console.log(kode);
